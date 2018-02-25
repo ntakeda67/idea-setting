@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.apex;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="SLDS212.resource" type="ARCHIVE" />
+      <mapping pattern="leaflet.resource" type="ARCHIVE" />
+      <mapping pattern="ddcAssess__jquery_ui_base_theme.resource" type="ARCHIVE" />
+      <mapping pattern="ddcAssess__jquery_jqplot.resource" type="ARCHIVE" />
+      <mapping pattern="nouislider.resource" type="ARCHIVE" />
+      <mapping pattern="ddcAssess__SLDS212.resource" type="ARCHIVE" />
+      <mapping pattern="ddcAssess__assessment_resources.resource" type="ARCHIVE" />
+      <mapping pattern="vfimagetest.resource" type="ARCHIVE" />
+      <mapping pattern="ddcAssess__Assessment_css_v1.resource" type="CSS" />
+      <mapping pattern="ddcAssess__assessment_css.resource" type="CSS" />
+      <mapping pattern="ddcAssess__assessment2_css.resource" type="CSS" />
+      <mapping pattern="ddcAssess__jquery_ui_css.resource" type="CSS" />
+      <mapping pattern="ddcAssess__SLDS212PLUS.resource" type="CSS" />
+      <mapping pattern="ddcAssess__logo.resource" type="Images" />
+      <mapping pattern="ddcAssess__pdf_icon.resource" type="Images" />
+      <mapping pattern="th_con_app__thBackground.resource" type="Images" />
+      <mapping pattern="ddcAssess__did_you_know_icon.resource" type="Images" />
+      <mapping pattern="ddcAssess__AssessmentLogo.resource" type="Images" />
+      <mapping pattern="th_con_app__thLogo.resource" type="Images" />
+      <mapping pattern="ddcAssess__jqplotBar.resource" type="JavaScript" />
+      <mapping pattern="ddcAssess__jqplotCategory.resource" type="JavaScript" />
+      <mapping pattern="DataCache.resource" type="JavaScript" />
+      <mapping pattern="ddcAssess__LeanModal.resource" type="JavaScript" />
+    </extensionMap>
+  </component>
+</application>
