@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="vue" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
