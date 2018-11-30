@@ -341,6 +341,9 @@
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl u" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="o" />
+  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />
     <keyboard-shortcut first-keystroke="shift alt s" />
