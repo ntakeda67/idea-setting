@@ -1,0 +1,13 @@
+<application>
+  <component name="TomcatInfoConfigs">
+    <option name="tomcatInfos">
+      <list>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 7.0.91" />
+          <option name="path" value="C:\fedora_share\apache-tomcat-7.0.91" />
+          <option name="version" value="7.0.91.0" />
+        </TomcatInfo>
+      </list>
+    </option>
+  </component>
+</application>

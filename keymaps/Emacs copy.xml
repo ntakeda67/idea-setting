@@ -1,8 +1,0 @@
-<keymap version="1" name="Emacs copy" parent="Emacs">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="left" />
-  </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="right" />
-  </action>
-</keymap>
